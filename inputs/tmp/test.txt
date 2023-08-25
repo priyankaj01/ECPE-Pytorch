@@ -1,0 +1,2524 @@
+1 9
+[(7, 9)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2 9
+[(9, 8)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> 
+3 15
+[(12, 12)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4 12
+[(12, 9), (12, 10), (12, 11)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+5 7
+[(7, 6)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6 12
+[(6, 6), (9, 12)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8 8
+[(1, 2), (1, 3), (8, 5), (8, 7)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10 12
+[(5, 4)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> 
+11 9
+[(5, 2), (5, 4)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+12 10
+[(7, 7), (7, 8)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+13 7
+[(6, 5)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14 7
+[(2, 1), (6, 6)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> 
+16 10
+[(5, 3)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+17 11
+[(7, 6)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> 
+18 2
+[(2, 2)]
+1, 0, 0, <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+19 12
+[(6, 7)]
+1, 0, 0, <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+20 7
+[(7, 6)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> 
+21 11
+[(8, 7)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+22 7
+[(3, 1)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+23 4
+[(4, 2)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> 
+24 8
+[(8, 8)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+25 10
+[(9, 7), (9, 8)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+26 14
+[(5, 3)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+27 17
+[(14, 12), (14, 13)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> 
+17, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+28 12
+[(7, 7)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+29 18
+[(18, 16)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+17, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+18, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+30 8
+[(8, 7)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+31 14
+[(1, 2)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+32 6
+[(4, 6)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+33 7
+[(5, 5)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> 
+34 8
+[(2, 1)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+35 12
+[(8, 8)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+36 9
+[(6, 5)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+37 7
+[(6, 3)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+38 5
+[(3, 5)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+39 6
+[(4, 3), (5, 3)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+41 13
+[(13, 12)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+42 13
+[(5, 4), (13, 12)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+44 8
+[(5, 4), (6, 6)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+46 12
+[(12, 11)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+47 8
+[(4, 3)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+48 8
+[(6, 4), (6, 5)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+49 7
+[(5, 5)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+50 5
+[(5, 4)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+51 10
+[(6, 5)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+52 6
+[(3, 3)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+53 15
+[(8, 8)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+54 8
+[(8, 7), (5, 5)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> 
+56 5
+[(2, 1)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+57 12
+[(12, 10)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+58 11
+[(11, 9), (11, 10)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+59 8
+[(2, 1), (2, 2)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+60 13
+[(3, 2)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> 
+61 11
+[(6, 4), (6, 5)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+62 4
+[(4, 3)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+63 4
+[(4, 4)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+64 8
+[(6, 5)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> 
+65 6
+[(3, 2)]
+1, 0, 0, <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+66 20
+[(7, 6)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+17, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+18, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+19, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+20, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+67 8
+[(8, 7)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+68 8
+[(2, 1)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+69 11
+[(4, 4), (6, 6)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+71 15
+[(2, 6)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+72 14
+[(7, 5), (7, 6)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+73 9
+[(2, 4)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+74 5
+[(3, 2)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+75 4
+[(3, 4)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+76 6
+[(6, 5)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+77 10
+[(3, 3)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+78 10
+[(5, 4), (10, 8)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> 
+80 8
+[(4, 4)]
+1, 0, 0, <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+81 6
+[(2, 1)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+82 8
+[(8, 7)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> 
+83 8
+[(8, 8)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+84 5
+[(3, 2)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+85 7
+[(2, 1), (6, 5)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+87 5
+[(2, 2)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+88 7
+[(2, 1)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+89 10
+[(10, 9)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> 
+90 4
+[(3, 3)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+91 8
+[(4, 3)]
+1, 0, 0, <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+92 12
+[(5, 5)]
+1, 0, 0, <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+93 14
+[(11, 10)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+94 8
+[(5, 4)]
+1, 0, 0, <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+95 9
+[(3, 2)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+96 5
+[(5, 2), (5, 4)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+97 4
+[(4, 2), (4, 3)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+98 4
+[(4, 3)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+99 7
+[(6, 7)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+100 5
+[(5, 2), (5, 3)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+101 7
+[(5, 3), (5, 4)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+102 7
+[(4, 1), (4, 2)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> 
+103 13
+[(7, 2)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+104 5
+[(3, 2)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+105 5
+[(2, 1)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+106 3
+[(3, 1), (3, 2)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+107 3
+[(3, 1)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> 
+108 3
+[(2, 2)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+109 6
+[(6, 6)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+110 9
+[(8, 7)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+111 3
+[(3, 2)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+112 9
+[(6, 5)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+113 10
+[(10, 9)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+114 6
+[(6, 6)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+115 9
+[(4, 3)]
+1, 0, 0, <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+116 10
+[(3, 3)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+117 8
+[(3, 2)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> 
+5, 0, 0, <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+118 6
+[(6, 5)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> 
+119 6
+[(5, 4)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+120 10
+[(7, 6)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+121 13
+[(4, 3)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+122 16
+[(15, 14)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+123 19
+[(16, 15)]
+1, 0, 0, <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+17, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+18, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+19, 0, 0, <UNK> <UNK> <UNK> 
+124 16
+[(14, 14)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+125 16
+[(14, 13)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+126 10
+[(10, 9)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+127 14
+[(4, 2)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+128 10
+[(6, 7)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+129 10
+[(4, 3)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> 
+5, 0, 0, <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> 
+130 16
+[(16, 15)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> 
+131 13
+[(7, 7)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+132 9
+[(6, 6)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> 
+8, 0, 0, <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+133 6
+[(2, 1)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> 
+3, 0, 0, <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+134 22
+[(21, 22)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+17, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+18, 0, 0, <UNK> <UNK> <UNK> 
+19, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+20, 0, 0, <UNK> <UNK> 
+21, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+22, 0, 0, <UNK> <UNK> <UNK> 
+135 16
+[(15, 15)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+136 8
+[(3, 3)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+137 13
+[(12, 11), (13, 13)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+139 18
+[(18, 17)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+17, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+18, 0, 0, <UNK> 
+140 6
+[(4, 4)]
+1, 0, 0, <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+141 10
+[(7, 6)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+142 21
+[(21, 20)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+17, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+18, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+19, 0, 0, <UNK> <UNK> <UNK> 
+20, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+21, 0, 0, <UNK> <UNK> <UNK> 
+143 15
+[(6, 14), (3, 3)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> 
+145 16
+[(3, 2)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+146 5
+[(2, 2)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+147 18
+[(12, 12)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> 
+17, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+18, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+148 10
+[(7, 6)]
+1, 0, 0, <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+149 15
+[(12, 13)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+150 16
+[(16, 15)]
+1, 0, 0, <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+151 18
+[(5, 1)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> 
+17, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+18, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+152 16
+[(3, 2), (13, 13)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> 
+154 13
+[(8, 9)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+155 9
+[(7, 7)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+156 8
+[(5, 4)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+157 15
+[(15, 14)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> 
+158 16
+[(16, 15)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+159 17
+[(17, 16)]
+1, 0, 0, <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+17, 0, 0, <UNK> <UNK> <UNK> 
+160 10
+[(7, 5)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+161 19
+[(17, 16)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+17, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+18, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+19, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+162 9
+[(5, 6)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+163 10
+[(8, 7)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+164 10
+[(5, 4)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+165 9
+[(8, 7)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+166 13
+[(7, 6)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+167 17
+[(10, 9), (14, 13), (17, 16)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> 
+17, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+170 14
+[(13, 12)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+171 7
+[(2, 2)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+172 12
+[(8, 9)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+173 13
+[(6, 5)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+174 10
+[(2, 2)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+175 14
+[(4, 3)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+176 13
+[(10, 10)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> 
+177 11
+[(2, 1)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+178 9
+[(6, 6)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+179 9
+[(7, 6)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+180 8
+[(6, 5)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+181 6
+[(5, 6)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+182 21
+[(20, 20)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> 
+17, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+18, 0, 0, <UNK> 
+19, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+20, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+21, 0, 0, <UNK> <UNK> 
+183 22
+[(5, 4)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+17, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+18, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+19, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+20, 0, 0, <UNK> <UNK> <UNK> 
+21, 0, 0, <UNK> <UNK> 
+22, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+184 21
+[(14, 12)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+17, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+18, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+19, 0, 0, <UNK> <UNK> <UNK> 
+20, 0, 0, <UNK> <UNK> 
+21, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+185 18
+[(18, 17)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+17, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+18, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+186 19
+[(3, 2)]
+1, 0, 0, <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+17, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+18, 0, 0, <UNK> <UNK> <UNK> 
+19, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+187 8
+[(4, 3)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+188 14
+[(9, 8)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+189 19
+[(15, 14)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+17, 0, 0, <UNK> <UNK> 
+18, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+19, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+190 20
+[(18, 19)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> 
+7, 0, 0, <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+17, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+18, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+19, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+20, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+191 9
+[(3, 2)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> 
+192 7
+[(5, 6)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+193 8
+[(8, 7)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+194 20
+[(20, 18), (20, 19)]
+1, 0, 0, <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+17, 0, 0, <UNK> 
+18, 0, 0, <UNK> <UNK> <UNK> 
+19, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+20, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+195 19
+[(12, 11)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+17, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+18, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+19, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+196 19
+[(11, 11)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+17, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+18, 0, 0, <UNK> 
+19, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+197 16
+[(15, 14)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> 
+198 15
+[(15, 15)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+199 15
+[(8, 9)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+200 20
+[(15, 16)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+17, 0, 0, <UNK> <UNK> 
+18, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+19, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+20, 0, 0, <UNK> <UNK> <UNK> 
+201 12
+[(5, 4)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+202 15
+[(13, 13)]
+1, 0, 0, <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+203 32
+[(32, 31)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> 
+17, 0, 0, <UNK> <UNK> 
+18, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+19, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+20, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+21, 0, 0, <UNK> <UNK> <UNK> 
+22, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+23, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+24, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+25, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+26, 0, 0, <UNK> <UNK> 
+27, 0, 0, <UNK> <UNK> 
+28, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+29, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+30, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+31, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+32, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+204 11
+[(7, 7), (11, 10)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+206 6
+[(5, 4)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> 
+207 19
+[(14, 17)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+17, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+18, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+19, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+208 15
+[(15, 13)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+209 18
+[(17, 18)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> 
+17, 0, 0, <UNK> <UNK> <UNK> 
+18, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+210 27
+[(27, 26)]
+1, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+17, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+18, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+19, 0, 0, <UNK> <UNK> 
+20, 0, 0, <UNK> <UNK> 
+21, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+22, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+23, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+24, 0, 0, <UNK> <UNK> <UNK> 
+25, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+26, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+27, 0, 0, <UNK> <UNK> <UNK> 
+211 18
+[(17, 16)]
+1, 0, 0, <UNK> <UNK> <UNK> 
+2, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+3, 0, 0, <UNK> <UNK> <UNK> <UNK> 
+4, 0, 0, <UNK> <UNK> 
+5, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+6, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+7, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+8, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+9, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+10, 0, 0, <UNK> 
+11, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+12, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+13, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+14, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+15, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> 
+16, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
+17, 0, 0, <UNK> <UNK> <UNK> 
+18, 0, 0, <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> 
